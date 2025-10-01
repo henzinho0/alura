@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <header>CEZFLIX</header>
+    <header>alura</header>
 
     <section class="chamada">
         <div class="chamada-texto">
