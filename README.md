@@ -9,8 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
 
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/CI2Nz_3gSNI?si=mBCP1QHTDwr0SZGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> rel="stylesheet">
-    <title>cezeflix</title>
+          href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
 </head>
 
 <body>
@@ -18,15 +17,13 @@
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>Tipo HinoDosaopauo</h1>
+            <h1> HinoDosaopauo</h1>
             <p>#HinoDosaopaulo</p>
         </div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CI2Nz_3gSNI?si=mBCP1QHTDwr0SZGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> rel="stylesheet">
+    <title>cezeflix</title>
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/IaRYwEECq-E?si=KgwdFI4rfQr5__Rk" 
-            title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-  write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           
       
         </div>
     </section>
