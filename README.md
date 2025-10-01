@@ -18,8 +18,8 @@
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>Tipo Minato</h1>
-            <p>#minato</p>
+            <h1>Tipo HinoDosaopauo</h1>
+            <p>#HinoDosaopaulo</p>
         </div>
 
         <div>
