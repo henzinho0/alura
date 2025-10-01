@@ -32,19 +32,19 @@
     <section class="categoria">
         <h2>Outras musicas</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=Sx86-18V3m8">
+            <a href="https://www.youtube.com/watch?v=4JiX52LIEIU">
                 <img src="https://img.youtube.com/vi/wCMzj9Gzyt0/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=KaIRo8cHnKc">
+            <a href="https://www.youtube.com/watch?v=k6de8dFEnSc">
                 <img src="https://img.youtube.com/vi/sSLrBuDWnOw/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=JRw622L3IqA">
+            <a href="https://www.youtube.com/watch?v=ycpt3nSK4QE">
                 <img src="https://img.youtube.com/vi/ZAa0hJKXwZU/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=UA1vopxkxKc">
+            <a href="https://www.youtube.com/watch?v=uLu89M5y-m8">
                 <img src="https://img.youtube.com/vi/9HqzHYmTnAA/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=dghDh1Nnkzo">
+            <a href="https://www.youtube.com/watch?v=uZhdK6Fb5A0">
                 <img src="https://img.youtube.com/vi/Gne4T4B3zhg/maxresdefault.jpg" />
             </a>
         </div>
