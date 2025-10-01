@@ -20,10 +20,11 @@
             <h1> HinoDosaopauo</h1>
             <p>#HinoDosaopaulo</p>
         </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CI2Nz_3gSNI?si=mBCP1QHTDwr0SZGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> rel="stylesheet">
-    <title>cezeflix</title>
+
+    
         <div>
-           
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/CI2Nz_3gSNI?si=mBCP1QHTDwr0SZGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> rel="stylesheet">
+    <title>cezeflix</title>
       
         </div>
     </section>
