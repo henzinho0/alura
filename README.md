@@ -1,18 +1,58 @@
-[3 trimestre computacional.html](https://github.com/user-attachments/files/22006115/3.trimestre.computacional.html)
+
+
+
+<html lang="pt-BR">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CI2Nz_3gSNI?si=tijVD389WlQnpAyG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        rel="stylesheet">
+    <title>cezeflix</title>
+</head>
+
 <body>
-    
+    <header>CEZFLIX</header>
 
-<header>ALURAFLIX</header>
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>Tipo Minato</h1>
+            <p>#minato</p>
+        </div>
 
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IaRYwEECq-E?si=KgwdFI4rfQr5__Rk" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-  write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
+        </div>
+    </section>
 
-<h1>HINO DO SAO PAULO</h1>
-<p>#hino-sao-paulo-sp</p>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CI2Nz_3gSNI?si=tijVD389WlQnpAyG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+    <section class="categoria">
+        <h2>Outras musicas</h2>
+        <div class="categoria-videos">
+            <a href="https://www.youtube.com/watch?v=wCMzj9Gzyt0">
+                <img src="https://img.youtube.com/vi/wCMzj9Gzyt0/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=sSLrBuDWnOw">
+                <img src="https://img.youtube.com/vi/sSLrBuDWnOw/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=ZAa0hJKXwZU">
+                <img src="https://img.youtube.com/vi/ZAa0hJKXwZU/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=9HqzHYmTnAA">
+                <img src="https://img.youtube.com/vi/9HqzHYmTnAA/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=Gne4T4B3zhg">
+                <img src="https://img.youtube.com/vi/Gne4T4B3zhg/maxresdefault.jpg" />
+            </a>
+        </div>
+    </section>
 
 </body>
 
-
+</html>
